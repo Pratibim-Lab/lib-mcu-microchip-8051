@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_8051/AT89x51xxJ:AT89x51xxJ",
+  "name": "AT89x51xxJ",
+  "library": "MCU_Microchip_8051",
+  "file": "MCU_Microchip_8051.kicad_symdir/AT89x51xxJ.kicad_sym",
+  "description": "8-bit Microcontroller with 4K Bytes Flash, PLCC-44",
+  "datasheet": "https://ww1.microchip.com/downloads/en/DeviceDoc/doc2487.pdf",
+  "keywords": "Microcontroller 8051 PLCC",
+  "footprint": "Package_LCC:PLCC-44",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-8051@master/parts/AT89x51xxJ/",
+  "part_path": "parts/AT89x51xxJ",
+  "symbol_file": "parts/AT89x51xxJ/AT89x51xxJ.kicad_sym",
+  "source_library": "MCU_Microchip_8051.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:08.961Z"
+}

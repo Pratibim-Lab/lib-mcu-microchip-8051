@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_8051/AT89C2051-24S:AT89C2051-24S",
+  "name": "AT89C2051-24S",
+  "library": "MCU_Microchip_8051",
+  "file": "MCU_Microchip_8051.kicad_symdir/AT89C2051-24S.kicad_sym",
+  "description": "24MHz, 2kB Flash, 128B SRAM, SOIC-20",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/doc0368.pdf",
+  "keywords": "MCS-51 8bit Flash Microcontroller",
+  "footprint": "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm",
+  "extends": "AT89C2051-12S",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-8051@master/parts/AT89C2051-24S/",
+  "part_path": "parts/AT89C2051-24S",
+  "symbol_file": "parts/AT89C2051-24S/AT89C2051-24S.kicad_sym",
+  "source_library": "MCU_Microchip_8051.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:08.936Z"
+}

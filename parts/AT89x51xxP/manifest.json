@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_8051/AT89x51xxP:AT89x51xxP",
+  "name": "AT89x51xxP",
+  "library": "MCU_Microchip_8051",
+  "file": "MCU_Microchip_8051.kicad_symdir/AT89x51xxP.kicad_sym",
+  "description": "8-bit Microcontroller with 4K Bytes Flash, DIP-40",
+  "datasheet": "https://ww1.microchip.com/downloads/en/DeviceDoc/doc2487.pdf",
+  "keywords": "Microcontroller 8051 DIP",
+  "footprint": "Package_DIP:DIP-40_W15.24mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-8051@master/parts/AT89x51xxP/",
+  "part_path": "parts/AT89x51xxP",
+  "symbol_file": "parts/AT89x51xxP/AT89x51xxP.kicad_sym",
+  "source_library": "MCU_Microchip_8051.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:08.964Z"
+}

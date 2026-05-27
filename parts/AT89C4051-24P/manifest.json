@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Microchip_8051/AT89C4051-24P:AT89C4051-24P",
+  "name": "AT89C4051-24P",
+  "library": "MCU_Microchip_8051",
+  "file": "MCU_Microchip_8051.kicad_symdir/AT89C4051-24P.kicad_sym",
+  "description": "24MHz, 4kB Flash, 128B SRAM, DIP-20",
+  "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/doc1001.pdf",
+  "keywords": "MCS-51 8bit Flash Microcontroller",
+  "footprint": "Package_DIP:DIP-20_W7.62mm",
+  "extends": "AT89C2051-12P",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-microchip-8051@master/parts/AT89C4051-24P/",
+  "part_path": "parts/AT89C4051-24P",
+  "symbol_file": "parts/AT89C4051-24P/AT89C4051-24P.kicad_sym",
+  "source_library": "MCU_Microchip_8051.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:06:08.941Z"
+}
